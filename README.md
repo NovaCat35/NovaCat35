@@ -1,14 +1,14 @@
-## Hello World, I'm NovaCat35, a developer and an artist 👋
+## Hello World! I'm NovaCat35, a developer and an artist 👋
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/robert-chen-devop357)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pikarat_nova/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pikarat_nova)
-
-**What I'm up to:**
-<img width="55%" align="right" alt="Abstract" src="https://github.com/NovaCat35/NovaCat35/assets/54908064/1e6eaa81-22ff-46c4-9212-9f92281049c7" />
-- ☕️ I'm currently working on my Full Stack Dev roadmap 
-- 🌱 I’m currently learning MongoDB and Express 
-- 🎨 Doodling artist on the brink
-- 📫 How to reach me: rchen8116@gmail.com
+  <img width="55%" align="right" alt="Abstract" src="https://github.com/NovaCat35/NovaCat35/assets/54908064/6ebdb3e1-6c64-457b-aec5-31611c27167d" />
+  
+**About Me:**
+  - ☕️ I'm working on my Full Stack Dev roadmap 
+  - 🌱 I’m currently learning MongoDB and Express 
+  - 🎨 Arrt hobbyist, doodling for fun
+  - 📫 How to reach me: rchen8116@gmail.com
 
 **Languages and Tools:** ✨
 <p>
@@ -35,6 +35,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 </p>
+
+<label > 🧑‍🎨 img src : avogado6 (artist) </label>
 
 <!--
 **NovaCat35/NovaCat35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
