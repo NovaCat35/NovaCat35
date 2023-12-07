@@ -1,5 +1,5 @@
 ## Hello World! I'm NovaCat35, a developer and an artist 👋
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/robert-chen-devop357)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-chen-37b595250/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pikarat_nova/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pikarat_nova)
   <img width="55%" align="right" alt="Abstract" src="https://github.com/NovaCat35/NovaCat35/assets/54908064/6ebdb3e1-6c64-457b-aec5-31611c27167d" />
