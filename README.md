@@ -7,7 +7,7 @@
 **About Me:**
   - ☕️ I'm working on my Full Stack Dev roadmap 
   - 🌱 I’m currently learning MongoDB and Express 
-  - 🎨 Arrt hobbyist, doodling for fun
+  - 🎨 I'm an art hobbyist, doodling for fun
   - 📫 How to reach me: rchen8116@gmail.com
 
 **Languages and Tools:** ✨
