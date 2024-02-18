@@ -6,9 +6,9 @@
 <!-- [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pikarat_nova/) -->  
 
 **About Me:**
-  - 👀 I’m an aspiring software developer!
-  - ☕️ I'm working on my Full Stack Dev roadmap 
-  - 🌱 I’m currently learning auth & API with Nodejs
+  - ⛵️ I’m an aspiring software developer!
+  - ☕️ I love creating visually appealing stuff
+  - 🌱 I’m currently building a full-stack blog
   - 🎨 I'm an art hobbyist, doodling for fun
 
 **Languages and Tools:** ✨
