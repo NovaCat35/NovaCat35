@@ -1,4 +1,4 @@
-## Hello World! I'm Robert, a developer and an artist 👋
+## Hello World! My name is Robert 👋
 <!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-chen-37b595250/) -->
 <!-- [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NovaCat35?tab=repositories) -->  
 <!-- [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pikarat_nova)-->  
@@ -6,10 +6,11 @@
 <!-- [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pikarat_nova/) -->  
 
 **About Me:**
-  - ⛵️ I’m an aspiring software developer!
+  - ⛵️ Software development is my forte!
   - ☕️ I love creating visually appealing stuff
-  - 🌱 I’m currently building a full-stack blog
+  - 🌱 Exploring the realms of Full stack & 3D modeling
   - 🎨 I'm an art hobbyist, doodling for fun
+  - 📨 Feel free to reach out to me at rchen8116@gmail.com
 
 **Languages and Tools:** ✨
 <p>
