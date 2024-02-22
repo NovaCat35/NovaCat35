@@ -6,11 +6,10 @@
 <!-- [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pikarat_nova/) -->  
 
 **About Me:**
-  - ⛵️ Software development is my forte!
+  - ⛵️ I aim to make products in the future to benefit others
   - ☕️ I love creating visually appealing stuff
-  - 🌱 Exploring the realms of Full stack & 3D modeling
+  - 🌱 I'm diving knee-deep into full-stack dev & 3D models
   - 🎨 I'm an art hobbyist, doodling for fun
-  - 📨 Feel free to reach out to me at rchen8116@gmail.com
 
 **Languages and Tools:** ✨
 <p>
