@@ -6,7 +6,7 @@
 <!-- [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pikarat_nova/) -->  
 
 **About Me:**
-  - ⛵️ I aim to make products in the future to benefit others
+  - ⛵️ Driven by a passion for crafting innovative software solutions
   - ☕️ I love creating visually appealing stuff
   - 🌱 I'm diving knee-deep into full-stack dev & 3D models
   - 🎨 I'm an art hobbyist, doodling for fun
