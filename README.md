@@ -2,12 +2,12 @@
 <!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-chen-37b595250/) -->
 <!-- [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NovaCat35?tab=repositories) -->  
 <!-- [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pikarat_nova)-->  
-<img width="45%" align="right" alt="Abstract" style="margin-left: 15px" src="https://github.com/NovaCat35/NovaCat35/assets/54908064/6ebdb3e1-6c64-457b-aec5-31611c27167d" />  
+<img width="50%" align="right" alt="Abstract" style="margin-left: 15px" src="https://github.com/NovaCat35/NovaCat35/assets/54908064/6ebdb3e1-6c64-457b-aec5-31611c27167d" />  
 <!-- [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pikarat_nova/) -->  
 
 ### ⛵️ About Me
-I'm a full-stack developer passionate about creating visually appealing <br /> stuff and making cool applications. I have a CS degree and have been following [The Odin Project](https://www.theodinproject.com/) on its full-stack path. I'm also an art hobbyist, doodling for fun 🎨
-> Come check out some of my favorite projects pinned below!
+I'm a full-stack developer passionate about creating visually appealing stuff and making cool applications. I have been following [The Odin Project](https://www.theodinproject.com/) on its full-stack path. I'm also an art hobbyist, doodling for fun 🎨
+> Got time? Come check out some of my favorite projects <br/> pinned below!
 
 ### 🛠️ Skills and Tools
 
