@@ -6,7 +6,7 @@
 <!-- [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pikarat_nova/) -->  
 
 ### ⛵️ About Me
-I'm a full-stack developer passionate about creating visually appealing stuff and making cool applications. I have been following [The Odin Project](https://www.theodinproject.com/) on its full-stack path. I'm also an art hobbyist, doodling for fun 🎨
+I'm a full-stack developer passionate about creating visually appealing stuff and making cool applications. I am currently exploring all I can about full-stack development and doing a bit of freelancing. I'm also an art hobbyist, doodling for fun 🎨
 > Got time? Come check out some of my favorite projects <br/> pinned below!
 
 ### 🛠️ Skills and Tools
