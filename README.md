@@ -59,6 +59,8 @@ I'm a full-stack developer passionate about creating visually appealing stuff an
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+[![My Skills](https://skillicons.dev/icons?i=lit,figma)](https://skillicons.dev)
+
 ` Artist source : avogado6 🖌️ `
 
 <!--
