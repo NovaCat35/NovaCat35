@@ -6,7 +6,7 @@
 <!-- [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pikarat_nova/) -->  
 
 ### ⛵️ About Me
-I'm a full-stack developer passionate about creating visually appealing stuff and making cool apps. I've been developing my [blog website](https://wayfarers-frontier.pages.dev/), but I recently paused to focus on work and the new ODIN Project updates. I'm also an art hobbyist, doodling for fun 🎨
+I'm a software engineer passionate about creating visually appealing stuff and making cool apps. I've been developing my [blog website](https://wayfarers-frontier.pages.dev/), but I recently paused to focus on work, art, and the new ODIN Project updates. Oh, I'm also an art hobbyist, drawing for fun 🎨
 > Got time? Check out some of my favorite projects <br/> pinned below!
 
 ### 🛠️ Skills and Tools
